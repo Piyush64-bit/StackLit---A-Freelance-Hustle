@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![StackLit Logo](src/assets/cropped-StackLit%20Logo.png)
+<img src="src/assets/cropped-StackLit Logo.png" alt="StackLit Logo" width="300">
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
